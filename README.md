@@ -15,12 +15,4 @@ patch
 lmwdlkmwdc
 patch-7
 ddwd
-=======
-patch-8
-ddwdw
 
- main
- main
- main
- main
- main
