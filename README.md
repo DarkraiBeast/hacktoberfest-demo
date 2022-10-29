@@ -1,5 +1,8 @@
 # hacktoberfest-demo.
 .dwdc
+ patch-4
+xdnkdw
+=======
  patch-2
 sd4fdsf
 sd
@@ -13,6 +16,7 @@ ddwd
 patch-8
 ddwdw
 
+ main
  main
  main
  main
