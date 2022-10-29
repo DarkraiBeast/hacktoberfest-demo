@@ -1,2 +1,2 @@
-# hacktoberfest-demo
-adc ncd
+# hacktoberfest-demo.
+.dwdc
